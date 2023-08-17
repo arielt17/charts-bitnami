@@ -1,5 +1,5 @@
 # The Bitnami Library for Kubernetes
-
+ yes
 Popular applications, provided by [Bitnami](https://bitnami.com), ready to launch on Kubernetes using [Kubernetes Helm](https://github.com/helm/helm).
 
 ## TL;DR
